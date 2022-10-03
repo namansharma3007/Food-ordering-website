@@ -1,2 +1,2 @@
 # Food-ordering-website
-__node_modules are needed to be istalled__
+__node_modules are needed to be installed__
